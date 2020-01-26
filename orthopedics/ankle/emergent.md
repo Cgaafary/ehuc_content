@@ -9,6 +9,8 @@ Any fracture that demonstrates clinical signs of neurovascular compromise should
 * Pallor
 * Loss of sensation
 
+![](../../.gitbook/assets/lat-malfx1.jpg)
+
 ## Open Fractures
 
 ### MD360 and outpatient settings
